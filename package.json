@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantp22/team-profile-generator.git"
+  },
+  "author": "prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantp22/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/prashantp22/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
